@@ -3,13 +3,6 @@
 
 This repository contains the code and methodology for the project "Personalized Automatic Playlist Generation Using AH-DQN". This project leverages reinforcement learning techniques to adaptively suggest songs based on user preferences, enhancing the novelty and diversity of recommendations.
 
-## Team Members
-
-- **K.R. Vishwajith** - CB.EN.U4AIE21020
-- **Kishore DM** - CB.EN.U4AIE21024
-- **Shyam Surya G** - CB.EN.U4AIE21063
-- **Steven J** - CB.EN.U4AIE21066
-
 ## Problem Statement
 
 In recent years, music recommendation systems have gained substantial attention, leveraging machine learning techniques to suggest songs that match user preferences. Traditional recommendation systems often rely on collaborative filtering or content-based filtering, which may not effectively capture the dynamic nature of user preferences. Reinforcement learning (RL) specifically works better in sequential decision-making problems, making it suitable for playlist generation.
