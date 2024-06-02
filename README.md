@@ -13,7 +13,6 @@ This project introduces an Action Head Deep Q-Network (AH-DQN) based music recom
 
 The dataset comprises 1000 songs, each described by 21 features representing various musical attributes. These features include temporal elements (e.g., "1980s", "1990s"), genres (e.g., "Pop", "Rock", "Country"), and other stylistic characteristics (e.g., "Love", "Metal", "Acoustic"). The features are binary indicators specifying the presence or absence of each attribute for a given song.
 
-The dataset can be accessed and downloaded from Kaggle using the following link: [VQA-RAD: Visual Question Answering Radiology](https://www.kaggle.com/datasets/mdzeeshanhassan/vqa-rad-visual-question-answering-radiology)
 
 ## Methodology
 
